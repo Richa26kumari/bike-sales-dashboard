@@ -1,4 +1,4 @@
 # bike-sales-dashboard
 "An Excel dashboard for sales performance analysis."
-This project contains a dynamic Excel dashboard built for visualizing monthly sales data.
+This project features an interactive **Excel dashboard** designed to analyze and visualize bike sales data. It provides insights into sales performance across various dimensions.
 > Built using Microsoft Excel and pivot tables.
