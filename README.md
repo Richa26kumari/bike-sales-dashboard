@@ -4,5 +4,5 @@ This project features an interactive **Excel dashboard** designed to analyze and
 > Built using Microsoft Excel and pivot tables.
 ## 📸 Dashboard Preview
 
-![Bike Dashboard](dashboard.jpeg)
+![Bike Dashboard](dashboard.jpg)
 
